@@ -8,15 +8,15 @@
 I'm very selfdeterminate and a fast learning. I want to become a great developer and to create sometghing great. I had an expirience in java developing, then had a time break for my family, created kid's educational center, but always wanted to return in IT.
 
 ## Languages:
-*Java
-*JavaScript
-*HTML, CSS
-*Python
-*IntelliJ IDEA
-*Maven
-*Git, GitHub
-*Scrum, Canban
-*Adobe Photoshop, Illustrator
+- Java
+- JavaScript
+- HTML, CSS
+- Python
+- IntelliJ IDEA
+- Maven
+- Git, GitHub
+- Scrum, Canban
+- Adobe Photoshop, Illustrator
 
 ## Code example:
 
