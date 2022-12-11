@@ -50,3 +50,15 @@ public void sendMail() {
         }
     }
 ```
+
+## Work expirience:
+ - director of kid's educational center
+ - java developer in EPAM
+ - process engineer in P&G
+ - mechanical engineer in CompMechLab
+
+ ## Education:
+  **University**: Saint-Petersburg Polytechnical University, department of physics and mechanics, master degree
+
+  ## English level:
+  Used to be C1, in fact still have fluent english speaking and reading
