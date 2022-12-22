@@ -57,8 +57,8 @@ public void sendMail() {
  - process engineer in P&G
  - mechanical engineer in CompMechLab
 
- ## Education:
+## Education:
   **University**: Saint-Petersburg Polytechnical University, department of physics and mechanics, master degree
 
-  ## English level:
+## English level:
   Used to be C1, in fact still have fluent english speaking and reading
